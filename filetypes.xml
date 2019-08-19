@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="component2" type="JavaScript" />
+      <mapping pattern="ErrorIndicator.js" type="PLAIN_TEXT" />
+      <mapping pattern="component2.js" type="PLAIN_TEXT" />
+      <mapping pattern="edit.js" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

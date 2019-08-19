@@ -1,0 +1,13 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Desktop/airbnb.json" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="10.16.0" last-modified="1559079372000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.16.0" last-modified="1560521316000" />
+    </local-interpreter>
+  </component>
+</application>
