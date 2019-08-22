@@ -5,6 +5,7 @@
       <mapping pattern="ErrorIndicator.js" type="PLAIN_TEXT" />
       <mapping pattern="component2.js" type="PLAIN_TEXT" />
       <mapping pattern="edit.js" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
