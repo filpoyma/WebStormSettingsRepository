@@ -3,7 +3,6 @@
     <variable name="componentName" expression="" defaultValue="&quot;MyComponent&quot;" alwaysStopAt="true" />
     <context>
       <option name="JS_EXPRESSION" value="true" />
-      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="ren" value="&#10;render() {&#10;    return (&#10;        &lt;div&gt;&#10;            $END$&#10;        &lt;/div&gt;&#10;    );&#10;}&#10;" description="When called, it should examine this.props and this.state and return a single child element." toReformat="true" toShortenFQNames="true">
@@ -17,7 +16,6 @@
     <context>
       <option name="JSX_HTML" value="true" />
       <option name="JS_EXPRESSION" value="true" />
-      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
