@@ -1,0 +1,10 @@
+<templateSet group="JavaScript">
+  <template name="con" value="console.log('$LINE$ $MYSTRING$: ', $MYVAR$);$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="LINE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MYSTRING" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MYVAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
