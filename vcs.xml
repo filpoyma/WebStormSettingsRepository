@@ -144,6 +144,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Elbrus" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
 </application>
