@@ -154,8 +154,12 @@
           <option name="url" value="git@github.com:Elbrus-Bootcamp/core-proto-vehicle.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Elbrus-Bootcamp/core-proto-disney.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Elbrus/lections/phase-1/temp/truck" />
+    <option name="cloneParentDir" value="$USER_HOME$/Elbrus/lections/phase-1/temp/disney" />
   </component>
 </application>
