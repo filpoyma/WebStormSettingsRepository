@@ -166,8 +166,12 @@
           <option name="url" value="git@github.com:Elbrus-Bootcamp/labyrinth-challenge.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Elbrus-Bootcamp/grok-react.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Elbrus/lections/phase-1/temp" />
+    <option name="cloneParentDir" value="$USER_HOME$/Elbrus/lections/phase-3/temp" />
   </component>
 </application>
