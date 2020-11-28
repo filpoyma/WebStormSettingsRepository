@@ -172,6 +172,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Elbrus/lections/phase-3/temp" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
 </application>
