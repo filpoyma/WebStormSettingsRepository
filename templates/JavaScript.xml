@@ -7,4 +7,5 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="trc" value="try {&#10;        // do something great&#10;    } catch(e) {&#10;        console.log('Error', e.message)&#10;    }$END$" toReformat="false" toShortenFQNames="true" />
 </templateSet>
