@@ -1,6 +1,6 @@
 <templateSet group="JavaScript">
-  <template name="con" value="console.log('Line-$LINE$ $MYSTRING$:', $MYVAR$);$END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="LINE" expression="lineNumber()" defaultValue="" alwaysStopAt="true" />
+  <template name="con" value="console.log('file-$LINE$ $MYSTRING$:', $MYVAR$);$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="LINE" expression="fileName()" defaultValue="" alwaysStopAt="true" />
     <variable name="MYSTRING" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
     <variable name="MYVAR" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
     <context>
