@@ -1,8 +1,8 @@
 <templateSet group="JavaScript">
-  <template name="con" value="console.log('$LINE$ $MYSTRING$: ', $MYVAR$);$END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="LINE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="MYSTRING" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="MYVAR" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="con" value="console.log('Line-$LINE$ $MYSTRING$:', $MYVAR$);$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="LINE" expression="lineNumber()" defaultValue="" alwaysStopAt="true" />
+    <variable name="MYSTRING" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <variable name="MYVAR" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
