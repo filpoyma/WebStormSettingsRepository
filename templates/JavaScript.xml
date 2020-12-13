@@ -7,7 +7,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="tcatch" value="try {&#10;       $MYSTRING$&#10;    } catch(e) {&#10;        console.log('Error', e.message)&#10;    }$END$" toReformat="false" toShortenFQNames="true">
+  <template name="tcatch" value="try {&#10;       $MYSTRING$&#10;    } catch(e) {&#10;        console.log('Error', e.message)&#10;    }$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="MYSTRING" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
 </templateSet>
