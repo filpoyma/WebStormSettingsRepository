@@ -14,6 +14,7 @@
       <mapping pattern="ids-club-game.js" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
